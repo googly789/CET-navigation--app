@@ -1,0 +1,2 @@
+rootProject.name='CET NAVIGATION TOOL'
+include ':app'
